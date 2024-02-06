@@ -19,6 +19,7 @@ body {
     background-color: var(--gray-color);
 }
 
+
 .display-top-right {
     position: absolute;
     top: 0;
@@ -34,6 +35,6 @@ body {
 .display-10-left {
     position: absolute;
     top: 10px;
-    left: 0;
+    left: -3px;
 }
 
